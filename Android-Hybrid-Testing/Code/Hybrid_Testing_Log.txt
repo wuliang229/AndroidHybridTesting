@@ -1,0 +1,68 @@
+Element index: 0
+
+	Text                : 
+
+	Location            : (8, 76)
+
+	Dimension           : (577, 48)
+
+	Hypertext Reference : {sessionId=c084aa3b-5dee-6411-035c-90043442ff45, status=0}
+
+	--> Inserting input to textbox: <
+
+
+Element index: 0
+
+	Text                : 
+
+	Location            : (8, 76)
+
+	Dimension           : (577, 48)
+
+	Hypertext Reference : {sessionId=c084aa3b-5dee-6411-035c-90043442ff45, status=0}
+
+	--> Inserting input to textbox: .
+
+
+Element index: 0
+
+	Text                : 
+
+	Location            : (8, 76)
+
+	Dimension           : (577, 48)
+
+	Hypertext Reference : {sessionId=c084aa3b-5dee-6411-035c-90043442ff45, status=0}
+
+	--> Inserting input to textbox: r
+
+
+Element index: 0
+
+	Text                : 
+
+	Location            : (8, 76)
+
+	Dimension           : (577, 48)
+
+	Hypertext Reference : {sessionId=c084aa3b-5dee-6411-035c-90043442ff45, status=0}
+
+	--> Inserting input to textbox: s
+
+
+Element index: 7
+
+	Text                : Steven Wells
+Software Architect
+0
+
+	Location            : (8, 602)
+
+	Dimension           : (527, 45)
+
+	Hypertext Reference : file:///android_asset/www/index.html#employees/12
+
+	--> Clicked button
+
+
+--- Testing terminated ---

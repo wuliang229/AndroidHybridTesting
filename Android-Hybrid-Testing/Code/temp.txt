@@ -1,0 +1,49 @@
+Element index: 0
+
+	Text                : 
+
+	Location            : (8, 76)
+
+	Dimension           : (366, 48)
+
+	Hypertext Reference : {sessionId=531e5194-ce1e-2cbd-00fa-9aa241f891ac, status=0}
+	
+	--> Inserting input to textbox: j
+
+Element index: 0
+
+	Text                : 
+
+	Location            : (8, 76)
+
+	Dimension           : (366, 48)
+
+	Hypertext Reference : {sessionId=531e5194-ce1e-2cbd-00fa-9aa241f891ac, status=0}
+	
+	--> Inserting input to textbox: a
+
+Element index: 0
+
+	Text                : 
+
+	Location            : (8, 76)
+
+	Dimension           : (366, 48)
+
+	Hypertext Reference : {sessionId=531e5194-ce1e-2cbd-00fa-9aa241f891ac, status=0}
+	
+	--> Inserting input to textbox: m
+
+Element index: 1
+
+	Text                : 
+
+	Location            : (8, 76)
+
+	Dimension           : (366, 48)
+
+	Hypertext Reference : {sessionId=531e5194-ce1e-2cbd-00fa-9aa241f891ac, status=0}
+	
+	--> Clicked button
+
+--- Testing terminated ---
