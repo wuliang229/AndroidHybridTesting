@@ -6,7 +6,7 @@ Team Members: Liang Wu | Thomas Blackwell | Robert Xing | William Stalcup
 
 Who did what:
 
-- **Liang**:
+- **Liang**: Wrote the file and directory chooser and some menu items in the GUI. Helped with the implementation of feature extraction and input generation. Use the GUI to display the extracted information in a formatted manner. Plus other refactoring.
 
 
 - **Thomas**: Initial project design and setup. Developed method for extracting elements, developed method for automated execution of single inputs. Provided documentation for project setup and usage. Conducted research on Selendroid. 
